@@ -14,8 +14,7 @@
 
 1. [15 Piece Puzzle:](https://github.com/rpande1996/15_Piece_Puzzle_Solver)
 
-- Overview:
-This repository utilizes Breadth First Search algorithm to find the solution to given 
+- This repository utilizes Breadth First Search algorithm to find the solution to given 
 input state of the puzzle
 
 2. [BFS Goal Detection Algorithm:]
