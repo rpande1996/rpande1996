@@ -1,10 +1,4 @@
-### Hi there 👋
-
 <!--
-**rpande1996/rpande1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Projects:
+
+## [Goal Detection](https://github.com/stars/rpande1996/lists/goal-detection)
+
+1. [15 Piece Puzzle](https://github.com/rpande1996/15_Piece_Puzzle_Solver)
+
+- Overview:
+This repository 
