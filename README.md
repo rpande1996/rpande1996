@@ -13,7 +13,7 @@
 ## [Goal Detection](https://github.com/stars/rpande1996/lists/goal-detection)
 
 1. [15 Piece Puzzle:](https://github.com/rpande1996/15_Piece_Puzzle_Solver)
-This repository utilizes Breadth First Search algorithm to find the solution to given 
-input state of the puzzle
+This repository utilizes Breadth First Search algorithm to solve a 15 Piece Puzzle for a selection of input states
 
-2. [BFS Goal Detection Algorithm:]
+2. [BFS Goal Detection Algorithm:](https://github.com/rpande1996/BFS_Goal_Detection_Algorithm)
+
