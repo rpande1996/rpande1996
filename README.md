@@ -34,3 +34,15 @@ This repository utilizes Dijkstra algorithm for a rigid robot with user-inputted
 This repository utilizes Dijkstra algorithm for a rigid robot with user-inputted robot radius, robot clearance, start location and goal location. The obstacles are padded with a layer of clearance.
 
    ![GIF](https://github.com/rpande1996/Dijkstra_Goal_Detection_Algorithm/blob/main/media/gif/output.gif)
+
+6. [A* Goal Detection Algorithm: ](https://github.com/rpande1996/AStar_Goal_Detection_Algorithm)
+This repository utilizes A* algorithm to find path from a user-inputted start location, goal location, start theta, goal theta, step size.
+
+![GIF](https://github.com/rpande1996/AStar_Goal_Detection_Algorithm/blob/main/media/gif/output.gif)
+
+7. [Autonomous World Navigation](https://github.com/rpande1996/Autonomous_World_Navigation)
+This repository utilizes in-built turtlebot planner to send a explorer robot to scan the QR codes at predefined locations and then send the follower robot to visit the same locations in ascending order
+
+![GIF](https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_rviz.gif)
+
+![GIF](https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_gazebo.gif)
