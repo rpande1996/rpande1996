@@ -43,7 +43,5 @@ This repository utilizes A* algorithm to find path from a user-inputted start lo
 7. [Autonomous World Navigation](https://github.com/rpande1996/Autonomous_World_Navigation)
 This repository utilizes in-built turtlebot planner to send a explorer robot to scan the QR codes at predefined locations and then send the follower robot to visit the same locations in ascending order
 
-   ![GIF]<img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_rviz.gif" width="250" height="250"/>
-   ![GIF]<img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_gazebo.gif" width="250" height="250"/>
-<!--    ![GIF](https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_rviz.gif =250x250) -->
-<!--    ![GIF](https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_gazebo.gif =250x250) -->
+   <img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_rviz.gif" width="272" height="148"/>
+   <img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_gazebo.gif" width="272" height="153"/>
