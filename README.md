@@ -15,6 +15,8 @@
 1. [15 Piece Puzzle: ](https://github.com/rpande1996/15_Piece_Puzzle_Solver)
 This repository utilizes Breadth First Search algorithm to solve a 15 Piece Puzzle for a selection of input states.
 
+   <img src="https://github.com/rpande1996/15_Piece_Puzzle_Solver/blob/main/media/gif/Vis.gif" width="480" height="480"/>
+
 2. [BFS Goal Detection Algorithm: ](https://github.com/rpande1996/BFS_Goal_Detection_Algorithm)
 This repository utilizes Breadth First Search algorithm to find path to a user-inputted goal location from a user-inputted start location.
 
