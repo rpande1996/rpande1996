@@ -10,7 +10,7 @@
 -->
 ## Projects:
 <details>
-   <summary><a href="https://github.com/stars/rpande1996/lists/goal-detection">Goal Detection</a></summary>
+   <summary><a href="https://github.com/stars/rpande1996/lists/goal-detection" target="_blank">Goal Detection</a></summary>
 
 1. [15 Piece Puzzle: ](https://github.com/rpande1996/15_Piece_Puzzle_Solver)
 This repository utilizes Breadth First Search algorithm to solve a 15 Piece Puzzle for a selection of input states.
@@ -50,7 +50,7 @@ This repository utilizes in-built turtlebot planner to send a explorer robot to 
    
 </details>
 <details>  
-   <summary><a href="https://github.com/stars/rpande1996/lists/computer-vision">Computer Vision</a></summary>
+   <summary><a href="https://github.com/stars/rpande1996/lists/computer-vision" target="_blank">Computer Vision</a></summary>
 
 1. [Direction Detector: ](https://github.com/rpande1996/Direction_Detector)
 This repository utilizes HSV masks to detect an arrow and determine the direction its pointing towards.
@@ -64,4 +64,4 @@ This repository utilizes HSV masks to detect the green signal light and draw a b
    
 </details>
 <details>
-   <summary><a href="https://github.com/stars/rpande1996/lists/miscellaneous">Miscellaneous</a></summary>
+   <summary><a href="https://github.com/stars/rpande1996/lists/miscellaneous" target="_blank">Miscellaneous</a></summary>
