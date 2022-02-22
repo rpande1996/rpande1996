@@ -10,7 +10,7 @@
 -->
 # Projects:
 <details>
-   <summary>[Goal Detection](https://github.com/stars/rpande1996/lists/goal-detection)</summary>
+   <summary><a href="https://github.com/stars/rpande1996/lists/goal-detection">Goal Detection</a></summary>
 
 1. [15 Piece Puzzle: ](https://github.com/rpande1996/15_Piece_Puzzle_Solver)
 This repository utilizes Breadth First Search algorithm to solve a 15 Piece Puzzle for a selection of input states.
