@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Projects:
+## Projects:
 <details>
    <summary><a href="https://github.com/stars/rpande1996/lists/goal-detection">Goal Detection</a></summary>
 
