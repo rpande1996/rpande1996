@@ -42,8 +42,21 @@ This repository utilizes A* algorithm to find path from a user-inputted start lo
 
    ![GIF](https://github.com/rpande1996/AStar_Goal_Detection_Algorithm/blob/main/media/gif/output.gif)
 
-7. [Autonomous World Navigation](https://github.com/rpande1996/Autonomous_World_Navigation)
+7. [Autonomous World Navigation: ](https://github.com/rpande1996/Autonomous_World_Navigation)
 This repository utilizes in-built turtlebot planner to send a explorer robot to scan the QR codes at predefined locations and then send the follower robot to visit the same locations in ascending order
 
    <img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_rviz.gif" width="408/1.25" height="222/1.25"/>
    <img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_gazebo.gif" width="408/1.25" height="229.5/1.25"/>
+   
+## [Computer Vision](https://github.com/stars/rpande1996/lists/computer-vision)
+
+1. [Direction Detector: ](https://github.com/rpande1996/Direction_Detector)
+This repository utilizes HSV masks to detect an arrow and determine the direction its pointing towards.
+
+   ![GIF](https://github.com/rpande1996/Direction_Detector/blob/main/output/dir.gif)
+
+2. [Green Signal Detector: ](https://github.com/rpande1996/Green_Signal_Detector)
+This repository utilizes HSV masks to detect the green signal light and draw a boundary which helps visually track the signal.
+
+   ![GIF](https://github.com/rpande1996/Green_Signal_Detector/blob/main/media/output.gif)
+   
