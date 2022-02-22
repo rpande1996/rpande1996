@@ -27,9 +27,8 @@ This repository utilizes Depth First Search algorithm to find path from a pre-de
 
    ![GIF](https://github.com/rpande1996/DFS_Mouse_Simulator/blob/main/media/gif/Maze_3.gif)
 
-4. |[Dijkstra Goal Detection Algorithm (w/ Clearance Visualization): ](https://github.com/rpande1996/Dijkstra_Goal_Detection_Rigid)|
-   |---|
-This repository utilizes Dijkstra algorithm for a rigid robot with user-inputted robot radius, robot clearance, start location and goal location. The exploration around the obstacles is avoided according to the clearance.
+4. [Dijkstra Goal Detection Algorithm (w/ Clearance Visualization): ](https://github.com/rpande1996/Dijkstra_Goal_Detection_Rigid)
+   This repository utilizes Dijkstra algorithm for a rigid robot with user-inputted robot radius, robot clearance, start location and goal location. The exploration around the obstacles is avoided according to the clearance.
 
    ![GIF](https://github.com/rpande1996/Dijkstra_Goal_Detection_Rigid/blob/main/media/gifs/output.gif)
 
