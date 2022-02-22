@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 # Projects:
-
+<details>
 ## [Goal Detection](https://github.com/stars/rpande1996/lists/goal-detection)
 
 1. [15 Piece Puzzle: ](https://github.com/rpande1996/15_Piece_Puzzle_Solver)
@@ -47,6 +47,8 @@ This repository utilizes in-built turtlebot planner to send a explorer robot to 
 
    <img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_rviz.gif" width="408/1.25" height="222/1.25"/>
    <img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_gazebo.gif" width="408/1.25" height="229.5/1.25"/>
+   
+</details>
    
 ## [Computer Vision](https://github.com/stars/rpande1996/lists/computer-vision)
 
