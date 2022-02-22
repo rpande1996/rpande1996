@@ -49,8 +49,8 @@ This repository utilizes in-built turtlebot planner to send a explorer robot to 
    <img src="https://github.com/rpande1996/Autonomous_World_Navigation/blob/main/media/gif/world2_gazebo.gif" width="408/1.25" height="229.5/1.25"/>
    
 </details>
-   
-## [Computer Vision](https://github.com/stars/rpande1996/lists/computer-vision)
+<details>  
+   <summary><a href="https://github.com/stars/rpande1996/lists/computer-vision">Computer Vision</a></summary>
 
 1. [Direction Detector: ](https://github.com/rpande1996/Direction_Detector)
 This repository utilizes HSV masks to detect an arrow and determine the direction its pointing towards.
@@ -62,3 +62,6 @@ This repository utilizes HSV masks to detect the green signal light and draw a b
 
    ![GIF](https://github.com/rpande1996/Green_Signal_Detector/blob/main/media/output.gif)
    
+</details>
+<details>
+   <summary><a href="https://github.com/stars/rpande1996/lists/miscellaneous">Miscellaneous</a></summary>
