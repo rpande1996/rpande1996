@@ -59,23 +59,23 @@
    
 4. [Video Correction: ](https://github.com/rpande1996/Video_Correction)
    
-   <img src="https://github.com/rpande1996/Video_Correction/blob/master/media/gif/input.gif" width="600/1.75" height="338/1.75"/>
-   <img src="https://github.com/rpande1996/Video_Correction/blob/master/media/gif/output.gif" width="544/1.75" height="306/1.75"/>
+   <img src="https://github.com/rpande1996/Video_Correction/blob/master/media/gif/input.gif" width="600/2.5" height="338/2.5"/>
+   <img src="https://github.com/rpande1996/Video_Correction/blob/master/media/gif/output.gif" width="544/2.5" height="306/2.5"/>
    
 5. [AR Plotting: ](https://github.com/rpande1996/AR_Plotting)
    
-   <img src="https://github.com/rpande1996/AR_Plotting/blob/main/media/gif/testudo.gif" width="600/1.75" height="338/1.75"/>
-   <img src="https://github.com/rpande1996/AR_Plotting/blob/main/media/gif/cube.gif" width="600/1.75" height="338/1.75"/>
+   <img src="https://github.com/rpande1996/AR_Plotting/blob/main/media/gif/testudo.gif" width="600/2.5" height="338/2.5"/>
+   <img src="https://github.com/rpande1996/AR_Plotting/blob/main/media/gif/cube.gif" width="600/2.5" height="338/2.5"/>
    
 6. [Object Retrieval: ](https://github.com/rpande1996/Object_Retrieval)
    
-   <img src="https://github.com/rpande1996/Object_Retrieval/blob/main/media/gif/obj_tr.gif" width="544/1.75" height="306/1.75"/>
-   <img src="https://github.com/rpande1996/Object_Retrieval/blob/main/media/gif/obj_retrv.gif" width="544/1.75" height="306/1.75"/>
+   <img src="https://github.com/rpande1996/Object_Retrieval/blob/main/media/gif/obj_tr.gif" width="544/2.5" height="306/2.5"/>
+   <img src="https://github.com/rpande1996/Object_Retrieval/blob/main/media/gif/obj_retrv.gif" width="544/2.5" height="306/2.5"/>
    
 7. [Lane Detection: ](https://github.com/rpande1996/Lane_Detection)
    
-   <img src="https://github.com/rpande1996/Lane_Detection/blob/main/media/gif/video1.gif" width="544/1.75" height="306/1.75"/>
-   <img src="https://github.com/rpande1996/Lane_Detection/blob/main/media/gif/video2.gif" width="544/1.75" height="306/1.75"/>
+   <img src="https://github.com/rpande1996/Lane_Detection/blob/main/media/gif/video1.gif" width="544/2.5" height="306/2.5"/>
+   <img src="https://github.com/rpande1996/Lane_Detection/blob/main/media/gif/video2.gif" width="544/2.5" height="306/2.5"/>
    
 8. [Optical Flow: ](https://github.com/rpande1996/Optical_Flow)
    
@@ -83,7 +83,7 @@
    
 9. [Stereo Vision: ](https://github.com/rpande1996/Stereo_Vision)
    
-   <img src="https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Cycle/Merged_Cycle.png" width="2940/100" height="3305/100"/>
+   ![IMG](https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Cycle/Merged_Cycle%20(1)_ccexpress_ccexpress.jpeg)
    
 </details>
 <details>
