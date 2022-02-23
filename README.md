@@ -65,3 +65,7 @@ This repository utilizes HSV masks to detect the green signal light and draw a b
 </details>
 <details>
    <summary><a href="https://github.com/stars/rpande1996/lists/miscellaneous" target="_blank">Miscellaneous</a></summary>
+</details>
+
+|[Mail](mailto:rpande@umd.edu)|[LinkedIn](https://www.linkedin.com/in/rajanpande/)|
+|---|---|
