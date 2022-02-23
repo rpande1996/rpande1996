@@ -83,7 +83,7 @@
    
 9. [Stereo Vision: ](https://github.com/rpande1996/Stereo_Vision)
    
-   <img src="https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Cycle/Merged_Cycle.png" width="544/1.75" height="306/1.75"/>
+   <img src="https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Cycle/Merged_Cycle.png" width="2940/12" height="3305/12"/>
    
 </details>
 <details>
