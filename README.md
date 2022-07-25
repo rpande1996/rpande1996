@@ -84,9 +84,3 @@
 9. [Stereo Vision: ](https://github.com/rpande1996/Stereo_Vision)
 
    <img src="https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Cycle/Merged_Cycle%20(1)_ccexpress_ccexpress.jpeg" width="600" height="337*2"/>
-
-|[Email](mailto:rpande@umd.edu)|
-|---|
-
-|[LinkedIn](https://www.linkedin.com/in/rajanpande/)|
-|---|
