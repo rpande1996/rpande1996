@@ -93,6 +93,25 @@
    
    <img src="https://github.com/rpande1996/Autonomous_Robot/blob/main/media/output/output2.gif"/>
 
+12. [Template Matching: ](https://github.com/rpande1996/Template_Matching)
+
+   <img src="https://github.com/rpande1996/Template_Matching/blob/main/output/Puzzle_1.jpg"/>
+   
+12. [Laplacian Gaussian Pyramid: ](https://github.com/rpande1996/Laplacian_Gaussian_Pyramid)
+
+   <img src="https://github.com/rpande1996/Laplacian_Gaussian_Pyramid/blob/main/output/Gaussian_Pyramid_4.jpg"/>
+   
+   <img src="https://github.com/rpande1996/Laplacian_Gaussian_Pyramid/blob/main/output/Laplacian_Pyramid_4.jpg"/>
+   
+13. [Hybrid Images: ](https://github.com/rpande1996/Hybrid_Images)
+
+   <img src="https://github.com/rpande1996/Hybrid_Images/blob/main/output/Face_Pair.jpg"/>
+
+14. [Edge Detection: ](https://github.com/rpande1996/Edge_Detection)
+
+   <img src="https://github.com/rpande1996/Edge_Detection/blob/main/input/86000.jpg"/>
+   <img src="https://github.com/rpande1996/Edge_Detection/blob/main/output/Image_45_Gradient.png"/>
+   
 </details>
 <details>  
    <summary><a href="https://github.com/stars/rpande1996/lists/machine-learning" target="_blank">Machine Learning</a></summary>
