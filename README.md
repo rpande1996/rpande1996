@@ -112,6 +112,18 @@
    <img src="https://github.com/rpande1996/Edge_Detection/blob/main/input/86000.jpg"/>
    <img src="https://github.com/rpande1996/Edge_Detection/blob/main/output/Image_45_Gradient.png"/>
    
+15. [Feature Tracker: ](https://github.com/rpande1996/Feature_Tracker)
+
+   <img src="https://github.com/rpande1996/Feature_Tracker/blob/main/output/track.png"/>
+   
+16. [Shape Alignment: ](https://github.com/rpande1996/Shape_Alignment)
+
+   <img src="https://github.com/rpande1996/Shape_Alignment/blob/main/output/apple_aligned.png"/>
+   
+17. [Object Instance Recognition: ](https://github.com/rpande1996/Object_Instance_Recognition)
+
+   <img src="https://github.com/rpande1996/Object_Instance_Recognition/blob/main/output/distance_ratio.png"/>
+   
 </details>
 <details>  
    <summary><a href="https://github.com/stars/rpande1996/lists/machine-learning" target="_blank">Machine Learning</a></summary>
