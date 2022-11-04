@@ -1,13 +1,3 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Projects:
 <details>
    <summary><a href="https://github.com/stars/rpande1996/lists/goal-detection" target="_blank">Goal Detection</a></summary>
@@ -123,6 +113,18 @@
 17. [Object Instance Recognition: ](https://github.com/rpande1996/Object_Instance_Recognition)
 
    <img src="https://github.com/rpande1996/Object_Instance_Recognition/blob/main/output/distance_ratio.png"/>
+   
+18. [Epipolar Geometry: ](https://github.com/rpande1996/Epipolar_Geometry)
+
+   <img src="https://github.com/rpande1996/Epipolar_Geometry/blob/main/output/epilines.jpg"/>
+   
+19. [Image Stitching: ](https://github.com/rpande1996/Image_Stitching)
+
+   <img src="https://github.com/rpande1996/Image_Stitching/blob/main/output/stitched_tv.jpg"/>
+   
+20. [Affine Structure from Motion: ](https://github.com/rpande1996/SfM)
+
+   <img src="https://github.com/rpande1996/SfM/blob/main/output/SfM.jpg"/>
    
 </details>
 <details>  
