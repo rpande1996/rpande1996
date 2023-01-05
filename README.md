@@ -125,6 +125,10 @@
 20. [Affine Structure from Motion: ](https://github.com/rpande1996/SfM)
 
    <img src="https://github.com/rpande1996/SfM/blob/main/output/SfM.jpg"/>
+
+21. [SLIC SuperPixels](https://github.com/rpande1996/SuperPixels)
+   
+   <img src="https://github.com/rpande1996/SuperPixels/blob/main/gif/result.gif"/>
    
 </details>
 <details>  
