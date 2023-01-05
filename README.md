@@ -129,6 +129,24 @@
 21. [SLIC SuperPixels](https://github.com/rpande1996/SuperPixels)
    
    <img src="https://github.com/rpande1996/SuperPixels/blob/main/gif/result.gif"/>
+
+22. [Graph Cut](https://github.com/rpande1996/GraphCut)
+   
+   <img src="https://github.com/rpande1996/GraphCut/blob/main/result/output.jpg"/>
+
+23. [Neural Network from scratch](https://github.com/rpande1996/NumpyNeuralNetwork)
+   
+   <img src="https://github.com/rpande1996/NumpyNeuralNetwork/blob/main/output/Loss_p1.png"/><br>
+   <img src="https://github.com/rpande1996/NumpyNeuralNetwork/blob/main/output/Acc_p1.png"/>
+                                                                                                                       
+24. [Image Classifier](https://github.com/rpande1996/Image_Classifier)
+    
+   <img src="https://github.com/rpande1996/Image_Classifier/blob/main/output/Loss_p2.png"/><br>
+   <img src="https://github.com/rpande1996/Image_Classifier/blob/main/output/Acc_p2.png"/>
+
+25. [Semantic Segmentation](https://github.com/rpande1996/Semantic_Segmentation)
+   
+   <img src="https://github.com/rpande1996/Semantic_Segmentation/blob/main/output/semantic_p3.jpg"/>
    
 </details>
 <details>  
