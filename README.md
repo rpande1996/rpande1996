@@ -165,6 +165,25 @@
 
    <img src="https://github.com/rpande1996/CMAC/blob/main/media/ContiCMAC_7.png"/>
 
+3. [Neural Network from scratch](https://github.com/rpande1996/NumpyNeuralNetwork)
+   
+   <img src="https://github.com/rpande1996/NumpyNeuralNetwork/blob/main/output/Loss_p1.png"/><br>
+   <img src="https://github.com/rpande1996/NumpyNeuralNetwork/blob/main/output/Acc_p1.png"/>
+                                                                                                                       
+4. [Image Classifier](https://github.com/rpande1996/Image_Classifier)
+    
+   <img src="https://github.com/rpande1996/Image_Classifier/blob/main/output/Loss_p2.png"/><br>
+   <img src="https://github.com/rpande1996/Image_Classifier/blob/main/output/Acc_p2.png"/>
+
+5. [Semantic Segmentation](https://github.com/rpande1996/Semantic_Segmentation)
+   
+   <img src="https://github.com/rpande1996/Semantic_Segmentation/blob/main/output/semantic_p3.jpg"/>
+   
+6. [Video Frame Interpolation](https://github.com/rpande1996/Video_Frame_Interpolation)
+
+   <img src="https://github.com/rpande1996/Video_Frame_Interpolation/blob/main/gifs/60VFI.gif"/>
+   <img src="https://github.com/rpande1996/Video_Frame_Interpolation/blob/main/gifs/120VFI.gif"/>
+
 </details>
 <details>  
    <summary><a href="https://github.com/stars/rpande1996/lists/general-robotics" target="_blank">General Robotics</a></summary>
