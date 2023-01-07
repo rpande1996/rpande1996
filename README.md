@@ -148,6 +148,11 @@
    
    <img src="https://github.com/rpande1996/Semantic_Segmentation/blob/main/output/semantic_p3.jpg"/>
    
+26. [Video Frame Interpolation](https://github.com/rpande1996/Video_Frame_Interpolation)
+
+   <img src="https://github.com/rpande1996/Video_Frame_Interpolation/blob/main/gifs/60VFI.gif"/>
+   <img src="https://github.com/rpande1996/Video_Frame_Interpolation/blob/main/gifs/120VFI.gif"/>
+   
 </details>
 <details>  
    <summary><a href="https://github.com/stars/rpande1996/lists/machine-learning" target="_blank">Machine Learning</a></summary>
